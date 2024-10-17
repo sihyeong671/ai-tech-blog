@@ -62,6 +62,8 @@ COMMUNITY = {
 company = sorted(COMPANY.items())
 community = sorted(COMMUNITY.items())
 
+description = "**수정 / 추가 해야할 내용 있다면 언제든 이슈에 남겨주세요**"
+
 with open("README.md", "w") as f:
     f.write(
 """# ai-tech-blog
@@ -77,4 +79,8 @@ with open("README.md", "w") as f:
     f.write("\n\n|**Name**|**URL**|\n")
     f.write("|---|---|\n")
     for k, v in community:
-        f.write(f"|{k}|{v}|\n") 
+        f.write(f"|{k}|{v}|\n")
+        
+    f.write("\n---\n")
+
+    f.write(f"{description}")

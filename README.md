@@ -62,3 +62,6 @@
 |MIT news|https://news.mit.edu|
 |가짜연구소|https://pseudolab.github.io/|
 |모두의연구소|https://modulabs.co.kr/blog/|
+
+---
+**수정 / 추가 해야할 내용 있다면 언제든 이슈에 남겨주세요**
