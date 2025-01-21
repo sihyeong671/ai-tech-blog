@@ -38,6 +38,7 @@
 |Towards Data Science|https://towardsdatascience.com/|
 |Watcha|https://medium.com/watcha|
 |uber|https://www.uber.com/en-KR/blog/engineering/|
+|네이버 페이|https://medium.com/naverfinancial|
 |달파|https://app.dalpha.so/blog/|
 |당근 마켓|https://medium.com/daangn/machine-learning/home|
 |무신사|https://medium.com/musinsa-tech|

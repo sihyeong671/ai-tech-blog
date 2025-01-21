@@ -47,6 +47,7 @@ COMPANY = {
     "Anthrophic": "https://www.anthropic.com/news",
     "RunWay": "https://runwayml.com/research",
     "HuggingFace": "https://huggingface.co/blog",
+    "네이버 페이": "https://medium.com/naverfinancial",
 }
 
 COMMUNITY = {
